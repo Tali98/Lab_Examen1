@@ -267,6 +267,7 @@ int main(){
 			if(winner == '3'){
 				cout<<"EMPATEEEE"<<endl;
 			}
+			break;
 		} 
 		//PLAYER2
 		cout<<name_player2<<" ingrese cual pieza movera"<<endl;
@@ -489,6 +490,7 @@ int main(){
                         if(winner == '3'){
                                 cout<<"EMPATEEEE"<<endl;
                         }
+			break;
                 }
 
 	}//fin while mayor
